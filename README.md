@@ -1,19 +1,8 @@
 # My-Notes
 My laptop died last week, so I decided to take my notes on GitHub.
 
-如何能够高效学习？建立组块；不要重读，而要回忆；进行测验；避免假装学会，真正掌握检验方法是能将你学到的知识教给别人。多数时候我们以为自己学会了，尤其是在没有输出之前。
-
-获得好睡眠的方法：想睡的时候马上去睡，适当运动。
-
-https://cn1lib.org 它可以下到几乎任何书，中文和英文都有。它根据ip有下载数量限制：注册用户每天可以下10本，非注册用户每天可以下5本。但，如果你用代理切换ip的话，理论上可以下载很多本。
-
-http://libgen.rs 这是一个可以下到各种英文书的俄罗斯网站，欧美恨之入骨，但它活了下来。
-
-当你下载到epub格式的文件，例如文件名是 42.epub ，可以进行下面的操作：
-
-把 42.epub 改成 42.zip. 把42.zip解压缩，会出现几个文件夹，在某个文件夹里找到一堆带着序号的html文件
-
-打开终端，输入下面的命令：
-cat part0001.html part0002.html,part 0003.html > 42.html
-
-这时你会发现你的epub书，变成了一个html文件，即 42.html. 用浏览器打开42.html，拷贝粘贴到word，例如叫 42.docx
+I made up my mind. 
+use github to manage my projects 
+- write software
+- write a book/blogpost anything
+- finish courses
