@@ -1,4 +1,4 @@
-# Why GitHub?
+# Aim
 My laptop died last week, so I decided to take my notes on GitHub.
 
 I made up my mind. 
