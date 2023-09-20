@@ -1,4 +1,4 @@
-# My-Notes
+# Why GitHub?
 My laptop died last week, so I decided to take my notes on GitHub.
 
 I made up my mind. 
