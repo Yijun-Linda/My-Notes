@@ -7,6 +7,10 @@ use GitHub to manage my projects
 - finish courses
 
 # Metholodgy
+## The power of writing
+You are a thinker, not a collector.
+Write your thoughts down.
+
 ## ChatGPT
 Since ChatGPT revolutionalizes the way we learn, I will use it to help me get better at explaining. First, I will ask ChatGPT to provide a few examples of how to use certain functions. I will ask ChatGPT to provide some examples and use cases. Then, I can get the feeling of it. Later, I will think about how to do it on my own. The key thing is to ask it to assist me and explain the concept to me.
 
