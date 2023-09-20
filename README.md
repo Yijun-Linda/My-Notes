@@ -9,6 +9,7 @@ use GitHub to manage my projects
 # Metholodgy
 ## The power of writing
 You are a thinker, not a collector.
+
 Write your thoughts down.
 
 ## ChatGPT
